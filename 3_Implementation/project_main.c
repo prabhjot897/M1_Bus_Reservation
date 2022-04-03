@@ -15,6 +15,11 @@ void status();//for printing the status by user input
 void status_1(int trno);//for printing the status while booking ticket
 void cancle();
 
+
+//username: user
+//password: pass
+
+
 int main()
 {
 	login();
